@@ -1,0 +1,18 @@
+{
+  "accuracy": 0.5,
+  "precision_macro": 0.275,
+  "recall_macro": 0.5,
+  "f1_macro": 0.35416666666666663,
+  "test_loss": 1.5174643596013386,
+  "test_acc": 0.5
+}
+
+Classification Report:
+              precision    recall  f1-score
+glioma              0.50     1.00     0.67
+meningioma          0.00     0.00     0.00
+no_tumor            0.60     1.00     0.75
+pituitary           0.00     0.00     0.00
+
+macro avg           0.28     0.50     0.35
+accuracy                               0.50
